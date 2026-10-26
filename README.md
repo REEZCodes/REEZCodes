@@ -34,7 +34,7 @@ Whether you're a beginner like me or an experienced developer, I'd love to conne
 
 ---
 
-**Always learning. Always building. Never standing still.**## Hi there 👋
+**Always learning. Always building. Never standing still.**
 
 <!--
 **REEZCodes/REEZCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
